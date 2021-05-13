@@ -1,5 +1,5 @@
 const hello = (name: string) => {
-  console.log(`hello, ${name}`)
-}
+  console.log(`hello, ${name}`);
+};
 
-hello('TypeScript')
+hello('TypeScript');
